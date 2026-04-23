@@ -1,0 +1,14 @@
+# Personal credentials — NEVER commit these
+config.py
+*.session
+*.session-journal
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
